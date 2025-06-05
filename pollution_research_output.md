@@ -1,0 +1,13 @@
+**Formation and Types**: Fossil fuels are formed from the remains of ancient organisms buried deep underground for millions of years. The main types of fossil fuels are coal, oil, and natural gas ([Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel), [Britannica](https://www.britannica.com/science/fossil-fuel)).
+
+**Extraction Methods**: Fossil fuels are extracted using various methods such as mining (coal) and drilling (oil and natural gas). More specific information on extraction methods can be found at the EPA Fossil Energy Resources, U.S. Energy Information Administration: Coal Mining, and Britannica: Oil Drilling.
+
+**Environmental Impact**: Burning fossil fuels contributes significantly to air pollution, climate change, and other environmental issues ([NRDc](https://www.nrdc.org/stories/fossil-fuels-dirty-facts)). The extraction process also poses potential risks to the environment, such as soil degradation and water contamination.
+
+**Resource Depletion**: Overconsumption of fossil fuels leads to their depletion, which can have significant economic and environmental consequences ([Energy.gov](https://www.energy.gov/fossil)). Efforts are being made to develop alternative energy sources to mitigate this issue.
+
+**Case Study: The Gulf Oil Spill**: The Gulf oil spill provides a tragic example of the potential environmental disaster that can result from fossil fuel extraction ([Ocean.si](https://ocean.si/conservation/gulf-oil-spill/what-are-fossil-fuels)). This event highlights the need for stricter regulations and safer practices in the fossil fuel industry.
+
+**Regulation and Innovation**: To address the environmental and resource depletion issues associated with fossil fuels, it's crucial to implement stricter regulations and promote innovation in cleaner energy technologies ([EPA](https://www.epa.gov/p2), [WHO](https://www.who.int/health-topics/air-pollution)).
+
+These bullet points cover the formation, types, extraction methods, environmental impact, resource depletion, and regulation aspects of fossil fuels. This information is directly related to the context provided on overexploitation of mineral and energy resources.
